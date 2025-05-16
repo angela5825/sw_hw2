@@ -2448,7 +2448,7 @@
 															"height": 13,
 															"alpha": -1.9513021291944856,
 															"distance": 16.15549442140351,
-															"text": "4 : displaySuccessMsg()"
+															"text": "4 : displaySignupMsg()"
 														},
 														{
 															"_type": "NodeLabelView",
@@ -2569,7 +2569,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGW16qfpic8GBk="
 											},
-											"name": "displaySuccessMsg()",
+											"name": "displaySignupMsg()",
 											"source": {
 												"$ref": "AAAAAAGW16ydpyd+E2A="
 											},
@@ -6040,7 +6040,7 @@
 															"height": 13,
 															"alpha": -1.9655867364352764,
 															"distance": 13,
-															"text": "5 : displaySuccessMsg()"
+															"text": "5 : displayLoginMsg()"
 														},
 														{
 															"_type": "NodeLabelView",
@@ -6178,7 +6178,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGW17QC9uQKADM="
 											},
-											"name": "displaySuccessMsg()",
+											"name": "displayLoginMsg()",
 											"source": {
 												"$ref": "AAAAAAGW17XX9OR+5sw="
 											},
@@ -12032,7 +12032,7 @@
 															"height": 13,
 															"alpha": -1.5707954934615633,
 															"distance": 12,
-															"text": "5 : showSuccessMsg()"
+															"text": "5 : showRegisterMsg()"
 														},
 														{
 															"_type": "NodeLabelView",
@@ -12170,7 +12170,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGW18gPubA6EuU="
 											},
-											"name": "showSuccessMsg()",
+											"name": "showRegisterMsg()",
 											"source": {
 												"$ref": "AAAAAAGW18o3u7Dz/lQ="
 											},
@@ -12577,9 +12577,9 @@
 															},
 															"font": "Arial;13;0",
 															"parentStyle": true,
-															"left": 24.72998046875,
+															"left": 23.47998046875,
 															"top": 5,
-															"width": 146.67529296875,
+															"width": 136.98080444335938,
 															"height": 13,
 															"text": "BrowseRentedBicycleList"
 														},
@@ -12593,7 +12593,7 @@
 															"parentStyle": true,
 															"left": 5,
 															"top": 5,
-															"width": 13.72998046875,
+															"width": 12.47998046875,
 															"height": 13,
 															"text": "sd"
 														}
