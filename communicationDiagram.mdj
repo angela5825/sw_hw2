@@ -12,15 +12,6 @@
 			"name": "Model",
 			"ownedElements": [
 				{
-					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFElm65HFNt33E=",
-					"_parent": {
-						"$ref": "AAAAAAFElm6BOFNpegQ="
-					},
-					"name": "Main",
-					"defaultDiagram": true
-				},
-				{
 					"_type": "UMLModel",
 					"_id": "AAAAAAGW16obiic1EtY=",
 					"_parent": {
@@ -3759,8 +3750,8 @@
 															},
 															"font": "Arial;15;0",
 															"parentStyle": true,
-															"left": 194.84228515625,
-															"top": 85,
+															"left": 235.84228515625,
+															"top": 84,
 															"width": 36.70166015625,
 															"height": 15,
 															"text": "Login"
@@ -3773,8 +3764,8 @@
 															},
 															"font": "Arial;15;1",
 															"parentStyle": true,
-															"left": 173,
-															"top": 85,
+															"left": 214,
+															"top": 84,
 															"width": 15.84228515625,
 															"height": 15,
 															"text": "sd"
@@ -3782,8 +3773,8 @@
 													],
 													"font": "Arial;15;0",
 													"parentStyle": false,
-													"left": 168,
-													"top": 80,
+													"left": 209,
+													"top": 79,
 													"width": 1223,
 													"height": 819,
 													"nameLabel": {
@@ -13649,9 +13640,9 @@
 															},
 															"font": "Arial;13;0",
 															"parentStyle": true,
-															"left": 53.47998046875,
+															"left": 54.72998046875,
 															"top": 54,
-															"width": 136.98080444335938,
+															"width": 146.67529296875,
 															"height": 13,
 															"text": "BrowseRentedBicycleList"
 														},
@@ -13665,7 +13656,7 @@
 															"parentStyle": true,
 															"left": 35,
 															"top": 54,
-															"width": 12.47998046875,
+															"width": 13.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -13836,7 +13827,7 @@
 																	"top": 247,
 																	"width": 121.63720703125,
 																	"height": 13,
-																	"text": "Lifeline2: BrowseUI"
+																	"text": ": BrowseUI"
 																},
 																{
 																	"_type": "LabelView",
@@ -13944,7 +13935,7 @@
 																	"top": 247,
 																	"width": 108.63720703125,
 																	"height": 13,
-																	"text": "Lifeline3: Browse"
+																	"text": ": Browse"
 																},
 																{
 																	"_type": "LabelView",
@@ -14052,7 +14043,7 @@
 																	"top": 423,
 																	"width": 111.525390625,
 																	"height": 13,
-																	"text": "Lifeline4: Member"
+																	"text": ": Member"
 																},
 																{
 																	"_type": "LabelView",
@@ -14160,7 +14151,7 @@
 																	"top": 431,
 																	"width": 107.208984375,
 																	"height": 13,
-																	"text": "Lifeline5: Bicycle"
+																	"text": ": Bicycle"
 																},
 																{
 																	"_type": "LabelView",
@@ -17331,7 +17322,6 @@
 											"_parent": {
 												"$ref": "AAAAAAGW181OwO1y298="
 											},
-											"name": "Lifeline2",
 											"represent": {
 												"$ref": "AAAAAAGW186Cbu5F8QY="
 											},
@@ -17343,7 +17333,6 @@
 											"_parent": {
 												"$ref": "AAAAAAGW181OwO1y298="
 											},
-											"name": "Lifeline3",
 											"represent": {
 												"$ref": "AAAAAAGW186bDO5hFlo="
 											},
@@ -17355,7 +17344,6 @@
 											"_parent": {
 												"$ref": "AAAAAAGW181OwO1y298="
 											},
-											"name": "Lifeline4",
 											"represent": {
 												"$ref": "AAAAAAGW1863D+59HSo="
 											},
@@ -17367,7 +17355,6 @@
 											"_parent": {
 												"$ref": "AAAAAAGW181OwO1y298="
 											},
-											"name": "Lifeline5",
 											"represent": {
 												"$ref": "AAAAAAGW187J/O6YWxQ="
 											},
@@ -17770,9 +17757,9 @@
 															},
 															"font": "Arial;13;0",
 															"parentStyle": true,
-															"left": 31.47998046875,
+															"left": 32.72998046875,
 															"top": 21,
-															"width": 66.93690490722656,
+															"width": 72.2490234375,
 															"height": 13,
 															"text": "Rent Bicycle"
 														},
@@ -17786,7 +17773,7 @@
 															"parentStyle": true,
 															"left": 13,
 															"top": 21,
-															"width": 12.47998046875,
+															"width": 13.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
