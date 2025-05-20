@@ -1,0 +1,25 @@
+
+개인용 코드: 724612 https://github.com/angela5825/sw_hw2
+[angela5825] Mon May 19 18:28:17 2025 +0900 diagram 수정 fea530b
+[angela5825] Mon May 19 00:02:10 2025 +0900 communication diagram logout 부분 수정 6971841
+[angela5825] Sun May 18 23:54:06 2025 +0900 communication diagram signup 부분 일부 수정 d137cd4
+[angela5825] Fri May 16 22:13:57 2025 +0900 임시 파일 삭제 및 파일 이름 변경 c69502a
+[angela5825] Fri May 16 20:57:31 2025 +0900 class diagram 1차 upload e26c4c5
+[angela5825] Fri May 16 20:54:05 2025 +0900 Merge branch 'main' of https://github.com/angela5825/sw_hw2 0690036
+[angela5825] Fri May 16 20:52:58 2025 +0900 classDiagram.mdj 1차  upload c074f43
+[angela5825] Fri May 16 20:47:25 2025 +0900 class diagram 1차 최종 upload 1174f56
+[angela5825] Fri May 16 20:43:53 2025 +0900 class diagram 1차 최종 upload 172a323
+[angela5825] Fri May 16 16:30:21 2025 +0900 pdf file reupload 3086e64
+[angela5825] Fri May 16 16:25:48 2025 +0900 임시 파일 삭제 df16db1
+[angela5825] Fri May 16 16:17:19 2025 +0900 communication diagram operation name edit 클래스 다이어그램 작성을 위한 문서 작성 0c8ce4d
+[angela5825] Fri May 16 15:50:01 2025 +0900 communication diagram pdf file upload: 41677b9
+[angela5825] Fri May 16 15:47:14 2025 +0900 communication_Diagram 1차 최종 upload baaa86e
+[angela5825] Fri May 16 15:21:57 2025 +0900 communicationDiagram 1차 upload 5d2dd33
+[angela5825] Wed May 14 23:13:11 2025 +0900 개인코드 추가 aad95bc
+[angela5825] Wed May 14 23:10:26 2025 +0900 usecaseDescription file upload e769d17
+[angela5825] Tue May 13 23:19:35 2025 +0900 임시 파일 삭제 66c1271
+[angela5825] Tue May 13 23:09:24 2025 +0900 usecaseDiagram pdf file upload e78e653
+[angela5825] Tue May 13 23:00:39 2025 +0900 requirementList02 upload dd980dc
+[angela5825] Tue May 13 22:43:24 2025 +0900 usecase diagram 수정 e912b5b
+[angela5825] Tue May 13 22:37:35 2025 +0900 변경된 요구사항에 맞춰 usecase diagram 수정 e52c82c
+
